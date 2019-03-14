@@ -1,9 +1,12 @@
-public class Aluno extends Pessoa {
+public class AlunoX extends Pessoa {
 
 	private Matricula matricula;
+	private int preco;
+	private String nomeCompleto;
 
-	public void SolicitarMatricula() {
-
+	public String SolicitarMatricula() {
+		
+	return null;
 	}
 
 }
